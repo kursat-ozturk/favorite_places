@@ -1,16 +1,29 @@
-# favorite_places
+# Favorite Places App
 
-A new Flutter project.
+## Using Native Device Features:
 
-## Getting Started
+- Accessing the Camera via Flutter
+- Getting the User's Location & Displaying a Map
+- Storing Data on the Device
 
-This project is a starting point for a Flutter application.
+## 🛠 Skills
+Flutter -----------------> https://docs.flutter.dev/
+Dart --------------------> https://dart.dev/guides
+Flutter Riverpod --------> https://pub.dev/packages/flutter_riverpod
+Image Picker ------------> https://pub.dev/packages/image_picker
+Uuid --------------------> https://pub.dev/packages/uuid
+Http --------------------> https://pub.dev/packages/http
+Location ----------------> https://pub.dev/packages/location 
+Google Maps Flutter -----> https://pub.dev/packages/google_maps_flutter
+Path --------------------> https://pub.dev/packages/path
+Path Provider -----------> https://pub.dev/packages/path_provider
+Sqflite -----------------> https://pub.dev/packages/sqflite
 
-A few resources to get you started if this is your first Flutter project:
+[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## App Video:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+https://github.com/kursat-ozturk/favorite_places/assets/69029656/82e2ffbe-4338-4150-a4ce-462026d59384
+
+
+
